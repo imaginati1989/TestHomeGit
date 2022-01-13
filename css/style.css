@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(244, 245, 168);
+    margin: 0 1% 0 1%;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+span {
+    font-style: italic;
+}
+
+p {
+    font-size: 15px;
+}
+
+text {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
